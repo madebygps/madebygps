@@ -13,17 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there I am [GPS](https://madebygps.com/about)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
-
-- I'm a cloud advocate at Microsoft.
-- I make YouTube videos, it actually helped me land my job.
-
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [GPS](https://madebygps.com/about)
 <br/>
 
 ![twitter-follower](https://img.shields.io/twitter/follow/madebygps?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCbjgKwnWnGG7sKCPTRgrFcw?label=YouTube%20Subscribers&style=social) 
 
-### 📹 My lastest [Youtube videos](https://youtube.com/madebygps)
+### My lastest [Youtube videos](https://youtube.com/madebygps)
 </br>
 <a href='https://youtu.be/HRJnQKlURs4'>
   <img width='30%' src='https://i.ytimg.com/vi/HRJnQKlURs4/maxresdefault.jpg' alt='I've joined Microsoft' />
