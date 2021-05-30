@@ -2,7 +2,7 @@
 **madebygps/madebygps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://raw.githubusercontent.com/madebygps/madebygps/main/cropped-logo.gif" width="3000px">
+<img src="https://raw.githubusercontent.com/madebygps/madebygps/main/cropped-logo.gif" width="415px">
 
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbjgKwnWnGG7sKCPTRgrFcw)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madebygps)
@@ -10,7 +10,7 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gwyneth-pena/)
 <br />
 
-## My lastest [videos](https://youtube.com/madebygps) 
+## Lastest [videos](https://youtube.com/madebygps) 
 
 <a href='https://youtu.be/HRJnQKlURs4'>
   <img width='30%' src='https://i.ytimg.com/vi/HRJnQKlURs4/maxresdefault.jpg' alt='I've joined Microsoft' />
