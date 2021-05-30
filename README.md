@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **madebygps/madebygps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there I am [GPS](https://madebygps.com/about)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<br/>
+
+- ☁️  I'm a cloud advocate at Microsoft.
+- 🎥  I make YouTube videos, it actually helped me land my job.
+
+<br/>
+
+![twitter-follower](https://img.shields.io/twitter/follow/madebygps?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCbjgKwnWnGG7sKCPTRgrFcw?label=YouTube%20Subscribers&style=social) 
