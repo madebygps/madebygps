@@ -13,9 +13,12 @@
 ## Lastest [videos](https://youtube.com/madebygps) 
 
 <a href='https://youtu.be/HRJnQKlURs4'>
-  <img width='44%' src='https://i.ytimg.com/vi/HRJnQKlURs4/maxresdefault.jpg' alt='I've joined Microsoft' />
+  <img width='30%' src='https://i.ytimg.com/vi/HRJnQKlURs4/maxresdefault.jpg' alt='I've joined Microsoft' />
 </a>
 <a href='https://youtu.be/LvJ28cSSoMg' target='_blank'>
-  <img width='44%' src='https://i.ytimg.com/vi/LvJ28cSSoMg/maxresdefault.jpg' alt='How Serverles changed my career' />
+  <img width='30%' src='https://i.ytimg.com/vi/LvJ28cSSoMg/maxresdefault.jpg' alt='How Serverles changed my career' />
+</a>
+<a href='https://youtu.be/A-s6rZVMytc target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/A-s6rZVMytc/maxresdefault.jpg' alt='A cloud project for your resume' />
 </a>
 
