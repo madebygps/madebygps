@@ -2,7 +2,7 @@
 **madebygps/madebygps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://raw.githubusercontent.com/madebygps/madebygps/main/cropped-logo.gif" width="415px">
+<img src="https://raw.githubusercontent.com/madebygps/madebygps/main/cropped-logo.gif">
 
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbjgKwnWnGG7sKCPTRgrFcw)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madebygps)
@@ -21,5 +21,3 @@
 <a href='https://youtu.be/A-s6rZVMytc target='_blank'>
   <img width='30%' src='https://i.ytimg.com/vi/A-s6rZVMytc/maxresdefault.jpg' alt='A cloud project for your resume' />
 </a>
-
-![img](https://img.shields.io/youtube/channel/subscribers/UCbjgKwnWnGG7sKCPTRgrFcw?label=YouTube%20Subscribers&style=social)
