@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [GPS](https://madebygps.com/about)
-<br/>
-
 ![twitter-follower](https://img.shields.io/twitter/follow/madebygps?style=social) ![img](https://img.shields.io/youtube/channel/subscribers/UCbjgKwnWnGG7sKCPTRgrFcw?label=YouTube%20Subscribers&style=social) 
 
 ### My lastest [Youtube videos](https://youtube.com/madebygps)
