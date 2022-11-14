@@ -2,9 +2,7 @@
 **madebygps/madebygps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hi, I'm Gwyn! Regional Cloud Advocate at Microsoft and YouTuber. 
-
-¡Hola, soy Gwyn! Cloud Advocate regional en Microsoft y YouTuber.
+I do cloud things @microsoft and on YouTube.
 
 <img src="https://raw.githubusercontent.com/madebygps/madebygps/main/croppped.gif" width="415px">
 
