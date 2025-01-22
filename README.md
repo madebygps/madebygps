@@ -2,9 +2,7 @@
 **madebygps/madebygps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I do cloud things @microsoft and on YouTube.
-
-<img src="https://raw.githubusercontent.com/madebygps/madebygps/main/croppped.gif" width="415px">
+I'm Gwyneth Pena-Siguenza, but most call me Gwen or GPS. For work, I'm a [Cloud Advocate at Microsoft](aka.ms/madebygps), focused on helping others build on Azure. In my spare time I build open-source courseware and tools to help others learn cloud engineer at [Learn to Cloud](https://github.com/learntocloud), document learnings and career on [YouTube](youtube.com/madebygps), [read](https://www.madebygps.com/books-for-technologists/), and spend time with family, friends, and cats.
 
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbjgKwnWnGG7sKCPTRgrFcw)
 [![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madebygps)
