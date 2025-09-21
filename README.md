@@ -1,7 +1,6 @@
 <!--
 **madebygps/madebygps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Gwen 👋
 
 - [Python Advocate at Microsoft](https://aka.ms/madebygps), focused on improving Azure for Python workloads.
 - I maintain courseware and tools at [Learn to Cloud](https://github.com/learntocloud)
